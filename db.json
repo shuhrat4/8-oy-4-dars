@@ -1,0 +1,66 @@
+{
+    "categoria": [
+        {
+            "id": "1",
+            "name": "Все",
+            "isActive": true
+        },
+        {
+            "id": "2",
+            "name": "Мясные",
+            "isActive": false
+        },
+        {
+            "id": "3",
+            "name": "Вегетарианская",
+            "isActive": false
+        },
+        {
+            "id": "4",
+            "name": "Гриль",
+            "isActive": false
+        },
+        {
+            "id": "5",
+            "name": "Острые",
+            "isActive": false
+        },
+        {
+            "id": "6",
+            "name": "Закрытые",
+            "isActive": false
+        }
+    ],
+    "products": [
+        {
+            "id": "1",
+            "name": "Чизбургер-пицца",
+            "img": "https://us.123rf.com/450wm/hannaklkv/hannaklkv2406/hannaklkv240600899/230819414-sliced-pizza-with-cheese-and-mushrooms-isolated-on-white-background-top-view.jpg?ver=6",
+            "typeId": "0",
+            "sizeId": "1",
+            "price": 395,
+            "isSaved": false,
+            "categoriaId": "2"
+        },
+        {
+            "id": "2",
+            "name": "Сырная",
+            "img": "https://us.123rf.com/450wm/hannaklkv/hannaklkv2406/hannaklkv240600899/230819414-sliced-pizza-with-cheese-and-mushrooms-isolated-on-white-background-top-view.jpg?ver=6",
+            "typeId": "1",
+            "sizeId": "2",
+            "price": 450,
+            "isSaved": false,
+            "categoriaId": "2"
+        },
+        {
+            "id": "3",
+            "name": "Креветки по-азиатски",
+            "img": "https://us.123rf.com/450wm/hannaklkv/hannaklkv2406/hannaklkv240600899/230819414-sliced-pizza-with-cheese-and-mushrooms-isolated-on-white-background-top-view.jpg?ver=6",
+            "typeId": "0",
+            "sizeId": "3",
+            "price": 290,
+            "isSaved": false,
+            "categoriaId": "3"
+        }
+    ]
+}
